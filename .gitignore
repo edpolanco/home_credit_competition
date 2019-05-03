@@ -1,0 +1,10 @@
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+data_raw/
+data_full/
+data_merged/
+data_stratified/
+data_pre_processed/
